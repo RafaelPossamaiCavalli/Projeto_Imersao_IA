@@ -7,7 +7,7 @@ Premiado e com potencial para transformar o Brasil, o Currículo TOP já conecta
 Mergulhe mais profundo
 
 Leia o projeto 
-  # Currículo TOP - Revolucionando o Recrutamento com IA 
+  # Currículo TOP - Revolucionando o Recrutamento & Seleção com IA 
   
 E aprofunde-se nos seguintes tópicos:
 
